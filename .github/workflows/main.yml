@@ -57,4 +57,4 @@ jobs:
           python-version: '3.10'
       # Run your test
       - name: Check Documentation
-        run: echo "Hello World"
+        run: python CS3213.py
